@@ -4,7 +4,7 @@
 # How to Test
 ### Wednesday, Jun 21st
 
-##Excercise
+## Excercise
 ___
 Fork and clone this repository.  
 
